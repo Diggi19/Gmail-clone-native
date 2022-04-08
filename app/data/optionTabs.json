@@ -1,0 +1,13 @@
+[
+    {
+        "id":1,
+        "icon":"gear",
+        "item":"Settings"
+    },
+    {
+        "id":2,
+        "icon":"question-circle-o",
+        "item":"Help & feedback"
+    }
+
+]

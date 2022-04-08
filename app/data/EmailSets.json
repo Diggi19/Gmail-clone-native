@@ -1,0 +1,55 @@
+[
+    {
+        "id":1,
+        "image":"https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/2048px-Facebook_f_logo_%282021%29.svg.png",
+        "sender":"Facebook",
+        "subject":"Congratulations on signing in to facebook",
+        "description":"welcome to the facebook familt, we are happy to have you on board,Think about the message you are sending your audience. Will it be informative or conversational? Each has their own tone and format . An informative approach might discuss how to get the best results when completing a task that relates to your product or service . For example below, JB Hi-Fi sends an order confirmation to customers who have made a purchase and it provides all the information they need to track their order. There’s no flashy graphics or sales pitches – just a friendly and concise message to the customer.",
+        "timeStamp":"12:09 pm",
+        "receiver":"diggy@gmail.com"
+
+    },
+    {
+        "id":2,
+        "image":"https://gumlet.assettype.com/afaqs%2F2021-01%2F15f5f827-8e29-4520-af8d-a0f353b8da17%2Fimages.png?auto=format%2Ccompress&w=1200",
+        "sender":"Myntra",
+        "subject":"Your package is out for delivery",
+        "description":"your package will be arriving today by 6pm",
+        "timeStamp":"12:39 pm",
+        "receiver":"diggy@gmail.com"
+
+
+    },
+    {
+        "id":3,
+        "image":"https://images.bewakoof.com/t540/bewakoof-b--app-logo-bewakoof-com-new-logo-1483957527.jpg",
+        "sender":"BEWAKOOP",
+        "subject":"This Valentine's day,Couple it yp with cute t-shirst ❣❣👕",
+        "description":"Get in the shopping mood",
+        "timeStamp":"11:02 am",
+        "receiver":"diggy@gmail.com"
+
+    },
+    {
+        "id":4,
+        "image":"https://images.bewakoof.com/t540/bewakoof-b--app-logo-bewakoof-com-new-logo-1483957527.jpg",
+        "sender":"BEWAKOOP",
+        "subject":"This Valentine's day,Couple it yp with cute t-shirst ❣❣👕",
+        "description":"Get in the shopping mood",
+        "timeStamp":"11:02 am",
+        "receiver":"diggy@gmail.com"
+
+    },
+    {
+        "id":5,
+        "image":"https://images.bewakoof.com/t540/bewakoof-b--app-logo-bewakoof-com-new-logo-1483957527.jpg",
+        "sender":"BEWAKOOP",
+        "subject":"This Valentine's day,Couple it yp with cute t-shirst ❣❣👕",
+        "description":"Get in the shopping mood",
+        "timeStamp":"11:02 am",
+        "receiver":"diggy@gmail.com"
+
+
+    }
+
+]

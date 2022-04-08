@@ -1,0 +1,26 @@
+
+    [
+            {
+                "id":1,
+                "icon":"inbox",
+                "item":"All inboxes"
+            },
+            {
+                "id":2,
+                "icon":"envelope-o",
+                "item":"Primary"
+            },
+            {
+                "id":3,
+                "icon":"users",
+                "item":"Social"
+            },
+            {
+                "id":4,
+                "icon":"tags",
+                "item":"Promotions"
+            }
+
+        ]
+    
+

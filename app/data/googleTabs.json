@@ -1,0 +1,13 @@
+[
+    {
+        "id":1,
+        "icon":"calendar-o",
+        "item":"Calender"
+    },
+    {
+        "id":2,
+        "icon":"user-circle-o",
+        "item":"Contacts"
+    }
+
+]

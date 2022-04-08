@@ -1,0 +1,43 @@
+[
+    {
+        "id":1,
+        "icon":"star-o",
+        "item":"Starred"
+    },
+    {
+        "id":2,
+        "icon":"clock-o",
+        "item":"Snoozed"
+    },
+    {
+        "id":3,
+        "icon":"users",
+        "item":"Important"
+    },
+    {
+        "id":4,
+        "icon":"arrow-right",
+        "item":"Sent"
+    },
+    {
+        "id":5,
+        "icon":"dropbox",
+        "item":"Outbox"
+    },
+    {
+        "id":6,
+        "icon":"file-o",
+        "item":"Drafts"
+    },
+    {
+        "id":7,
+        "icon":"warning",
+        "item":"Spam"
+    },
+    {
+        "id":8,
+        "icon":"trash-o",
+        "item":"Trash"
+    }
+
+]
